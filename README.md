@@ -1,3 +1,9 @@
+## Update from December 13th
+I'll try to release my CV very soon. True, there is not as much time to create it as we would like. But I believe that everything will be OK 🤔
+
+![image](https://user-images.githubusercontent.com/58397321/207326392-38627b89-5ff7-4a86-8886-ae3c8d980dfe.png)
+
+## What I use in open repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarkbot&theme=dracula&layout=compact)](https://lunarkbot.net)
 
 <!--
