@@ -1,5 +1,8 @@
-## What I use in open repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarkbot&theme=dracula&layout=compact)](https://lunarkbot.net)
+## GitHub Language Stats
+[![Top Langs](https://stats.lunarkbot.dev/api/top-langs/?username=lunarkbot&layout=compact&count_private=true&theme=dracula&hide=html&langs_count=10)](https://lunarkbot.dev)
+
+## Weekly Coding Breakdown
+[![WakaTime Stats](https://stats.lunarkbot.dev/api/wakatime?username=lunarkbot&latout=compact&t=123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lunarkbot/lunarkbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
