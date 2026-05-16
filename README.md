@@ -1,8 +1,8 @@
-## GitHub Language Stats
-[![Top Langs](https://stats.lunarkbot.dev/api/top-langs/?username=lunarkbot&layout=compact&count_private=true&theme=github_dark_dimmed&hide=html,nsis,cmake,c%2B%2B&langs_count=10&cache_seconds=1800)](https://lunarkbot.dev)
-
 ## Weekly Coding Breakdown
 [![WakaTime Stats](https://stats.lunarkbot.dev/api/wakatime?username=lunarkbot&latout=compact&t=123&theme=github_dark_dimmed&cache_seconds=1800)](https://lunarkbot.dev)
+
+## GitHub Language Stats
+[![Top Langs](https://stats.lunarkbot.dev/api/top-langs/?username=lunarkbot&layout=compact&count_private=true&theme=github_dark_dimmed&hide=html,nsis,cmake,c%2B%2B&langs_count=10&cache_seconds=1800)](https://lunarkbot.dev)
 
 <!--
 **lunarkbot/lunarkbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
